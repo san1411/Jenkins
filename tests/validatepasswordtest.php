@@ -6,4 +6,8 @@ class ValidatePasswordTest extends PHPUnit_Framework_TestCase {
   $this->assertFalse($valPass->validLength('1234'));
 
  }	
-}		
+}	
+
+
+
+	
